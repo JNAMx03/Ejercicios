@@ -1,0 +1,11 @@
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\bin\Debug\netcoreapp2.1\ejercicios kattis.deps.json
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\bin\Debug\netcoreapp2.1\ejercicios kattis.runtimeconfig.json
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\bin\Debug\netcoreapp2.1\ejercicios kattis.runtimeconfig.dev.json
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\bin\Debug\netcoreapp2.1\ejercicios kattis.dll
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\bin\Debug\netcoreapp2.1\ejercicios kattis.pdb
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.csprojAssemblyReference.cache
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.csproj.CoreCompileInputs.cache
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.AssemblyInfoInputs.cache
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.AssemblyInfo.cs
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.dll
+D:\OTROS\mio\Programacion\JAVA\ejercicios kattis\obj\Debug\netcoreapp2.1\ejercicios kattis.pdb

@@ -1,0 +1,54 @@
+RELATIONAL ALGEBRA - 3
+Which is a join condition contains an equality operator?
+
+*Equijoins
+
+RELATIONAL ALGEBRA - 4
+In precedence of set operators the expression is evaluated from:
+
+*Left to Right
+
+DATABASE QUERY LANGUAGES
+Using which language can a user request information from a database ?
+
+*query
+
+PROCEDURAL LANGUAGE
+Which one of the following is a procedural language ?
+
+*Relacional ALGEBRA
+
+RELATIONS 1
+The_____ operation allows the combining of two relations by merging pairs of tuples, one from each relation, into a single tuple.
+
+*join
+
+RELATIONS 2
+The result which operation contains all pairs of tuples from the two relations, regardless of whether their attribute values match.
+
+*Cartesian Product  
+
+INDEX ARCHITECTURE TYPES
+How many index architecture type classifications are there in MS SQL Server?
+
+*2
+
+INDEXES 2
+Which of the following statement is true about row locators in non-clustered indexes in MS SQL Server?
+
+*If the table has a clustered index, or the index is on an indexed view, the row locator is the clustered index key for the row.
+
+INDEXES 3
+Consider the following two designs to store the data using clustered indexes in MS SQL Server:
+In the first design, the fill factor is 20% and the total number of free rows per page are A.
+
+In the second design, the fill factor is 40% and the total number of free rows per page are B.
+
+Which the followings describes the relation between A and B:
+
+*A = 1.33B
+
+INDEXES 4
+The correct syntax for creating composite indexes in MS SQL Sever is:
+
+*<p>CREATE INDEX index_name</p> <p>ON table_name(column1, column2);</p>

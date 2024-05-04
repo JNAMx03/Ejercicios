@@ -1,0 +1,29 @@
+{
+// Vea https://go.microsoft.com/fwlink/?LinkId=733558 
+    // para la documentación acerca del formato tasks.json
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            //"label": "cl.exe build active file",
+            "label": "build",
+            //"command": "cl.exe",
+            "command": "g++.exe",
+            "args": [
+                "-g",
+                "Tarifa.c",
+                "Tarida.cpp",
+                "/Zi",
+                "/EHsc",
+                "/Fe:",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "${file}"
+            ],
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+                      
+        }
+    ]
+}

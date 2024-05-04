@@ -1,0 +1,15 @@
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\bin\Debug\net6.0\Descending Order.exe
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\bin\Debug\net6.0\Descending Order.deps.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\bin\Debug\net6.0\Descending Order.runtimeconfig.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\bin\Debug\net6.0\Descending Order.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\bin\Debug\net6.0\Descending Order.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.csproj.AssemblyReference.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.AssemblyInfoInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.AssemblyInfo.cs
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.csproj.CoreCompileInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\refint\Descending Order.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\Descending Order.genruntimeconfig.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Descending Order\obj\Debug\net6.0\ref\Descending Order.dll

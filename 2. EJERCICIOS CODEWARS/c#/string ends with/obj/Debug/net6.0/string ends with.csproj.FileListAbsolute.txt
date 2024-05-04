@@ -1,0 +1,15 @@
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\bin\Debug\net6.0\string ends with.exe
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\bin\Debug\net6.0\string ends with.deps.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\bin\Debug\net6.0\string ends with.runtimeconfig.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\bin\Debug\net6.0\string ends with.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\bin\Debug\net6.0\string ends with.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.csproj.AssemblyReference.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.GeneratedMSBuildEditorConfig.editorconfig
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.AssemblyInfoInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.AssemblyInfo.cs
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.csproj.CoreCompileInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\refint\string ends with.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\string ends with.genruntimeconfig.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\string ends with\obj\Debug\net6.0\ref\string ends with.dll

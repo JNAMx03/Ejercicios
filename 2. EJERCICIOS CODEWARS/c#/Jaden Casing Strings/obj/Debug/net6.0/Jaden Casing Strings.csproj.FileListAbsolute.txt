@@ -1,0 +1,15 @@
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\bin\Debug\net6.0\Jaden Casing Strings.exe
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\bin\Debug\net6.0\Jaden Casing Strings.deps.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\bin\Debug\net6.0\Jaden Casing Strings.runtimeconfig.json
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\bin\Debug\net6.0\Jaden Casing Strings.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\bin\Debug\net6.0\Jaden Casing Strings.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.csproj.AssemblyReference.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.AssemblyInfoInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.AssemblyInfo.cs
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.csproj.CoreCompileInputs.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\refint\Jaden Casing Strings.dll
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.pdb
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\Jaden Casing Strings.genruntimeconfig.cache
+D:\mio\Programacion\30. Ejercicios\EJERCICIOS CODEWARS\c#\Jaden Casing Strings\obj\Debug\net6.0\ref\Jaden Casing Strings.dll
